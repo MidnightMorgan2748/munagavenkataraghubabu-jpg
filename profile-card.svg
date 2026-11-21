@@ -1,23 +1,63 @@
-<svg> 
-  OOOkkkxxxxxxddddddddddddddddddddddxxxxxk
-kkkxxxxdddddoodxxk0KKK0Oxoooooooddddddxx
-kxxdddoooooldOXNNNNNWWNNNKdllllloooodddd
-xdddooolllllKNWNWWWWWWMWWM0olccclllloood
-ddooolllcccxNNKOxolllldxk0WNl:cccccllloo
-oollllcccc:cKK:,'...'';ccc0Nl::::cccclll
-olllcccc::::ck,;::;,,;cddlox;::::::cccll
-lllcccc::::;::',cdl:;ddxdc:d:;;:::::cccl
-lllccc:::;;;;,...''.'cc;,;;o:;;;:::::ccc
-llccc::::;;;,;...;':coll::lc;;;;;::::ccc
-llcccc:::;;;;;l;,:;:lodoldx;;;;;;::::ccc
-llccc::::;;;;;:ldc,,;:lx0O:;;;;;::::cccc
-llcccc::::;;::o,:dkO0KK0xd.0dc::::::cccl
-lllccc:cldk0OOd c;,;ccccl..XXNK0kdlccccl
-olodxkOKXNNXKKO .:c;;,;;. 'NNNNWNNNXKOkx
-oONNNNNNNNNNXXO . .;c;....,NNNNNNNNNNNWN
-dKWNNNNNNNNXXXK.    ';.. .cNNNNWNNNNWWWW
-KNWNNNNNNNNNXXX,          ONNNNWNWWWWWWW
-NNNWNNNNNNNNNXXd         .NNNNWWWWWWWWMM
-NNNWNNNNNNNNNXX0.        cNNNWWWWWWWMWMM
+<svg width="850" height="440" viewBox="0 0 850 440" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #061412; stroke: #25d393; stroke-width: 2; rx: 12; }
+    .panel { fill: #081c19; stroke: #1b9c6e; stroke-width: 1.5; rx: 8; }
+    .text { font-family: 'Courier New', Courier, monospace; fill: #3ef2b0; font-size: 13px; }
+    .ascii { font-family: 'Courier New', Courier, monospace; fill: #38e8ff; font-size: 11px; white-space: pre; }
+    .dim { fill: #1b9c6e; font-size: 11px; }
+    .val { fill: #d4fff0; font-weight: bold; }
+  </style>
 
+  
+  <rect x="2" y="2" width="846" height="436" class="bg" />
+  <circle cx="22" cy="20" r="5" fill="#ff5f56" />
+  <circle cx="38" cy="20" r="5" fill="#ffbd2e" />
+  <circle cx="54" cy="20" r="5" fill="#27c93f" />
+  <text x="425" y="24" text-anchor="middle" class="text">munagavenkataraghubabu-jpg@github ~ $ ./profile-exec --live</text>
+  <line x1="2" y1="36" x2="848" y2="36" stroke="#1b9c6e" stroke-width="1" />
+
+  
+  <rect x="16" y="48" width="380" height="374" class="panel" />
+  <text x="28" y="68" class="dim">VISUAL.MAP</text>
+  <text x="65" y="110" class="ascii">
+    <tspan x="65" dy="0">OOOkkkxxxxxxddddddddddddddddddddddxxxxxk</tspan>
+    <tspan x="65" dy="14">kkkxxxxdddddoodxxk0KKK0Oxoooooooddddddxx</tspan>
+    <tspan x="65" dy="14">kxxdddoooooldOXNNNNNWWNNNKdllllloooodddd</tspan>
+    <tspan x="65" dy="14">xdddooolllllKNWNWWWWWWMWWM0olccclllloood</tspan>
+    <tspan x="65" dy="14">ddooolllcccxNNKOxolllldxk0WNl:cccccllloo</tspan>
+    <tspan x="65" dy="14">oollllcccc:cKK:,'...'';ccc0Nl::::cccclll</tspan>
+    <tspan x="65" dy="14">olllcccc::::ck,;::;,,;cddlox;::::::cccll</tspan>
+    <tspan x="65" dy="14">lllcccc::::;::',cdl:;ddxdc:d:;;:::::cccl</tspan>
+    <tspan x="65" dy="14">lllccc:::;;;;,...''.'cc;,;;o:;;;:::::ccc</tspan>
+    <tspan x="65" dy="14">llccc::::;;;,;...;':coll::lc;;;;;::::ccc</tspan>
+    <tspan x="65" dy="14">llcccc:::;;;;;l;,:;:lodoldx;;;;;;::::ccc</tspan>
+    <tspan x="65" dy="14">llccc::::;;;;;:ldc,,;:lx0O:;;;;;::::cccc</tspan>
+    <tspan x="65" dy="14">llcccc::::;;::o,:dkO0KK0xd.0dc::::::cccl</tspan>
+    <tspan x="65" dy="14">lllccc:cldk0OOd c;,;ccccl..XXNK0kdlccccl</tspan>
+    <tspan x="65" dy="14">olodxkOKXNNXKKO .:c;;,;;. 'NNNNWNNNXKOkx</tspan>
+    <tspan x="65" dy="14">oONNNNNNNNNNXXO . .;c;....,NNNNNNNNNNNWN</tspan>
+    <tspan x="65" dy="14">dKWNNNNNNNNXXXK.    ';.. .cNNNNWNNNNWWWW</tspan>
+    <tspan x="65" dy="14">KNWNNNNNNNNNXXX,          ONNNNWNWWWWWWW</tspan>
+    <tspan x="65" dy="14">NNNWNNNNNNNNNXXd         .NNNNWWWWWWWWMM</tspan>
+    <tspan x="65" dy="14">NNNWNNNNNNNNNXX0.        cNNNWWWWWWWMWMM</tspan>
+  </text>
+
+  
+  <rect x="410" y="48" width="424" height="374" class="panel" />
+  <text x="424" y="68" class="dim">SYSTEM.INFO</text>
+  <text x="818" y="68" text-anchor="end" class="dim">● LIVE</text>
+
+  <g transform="translate(424, 98)" class="text">
+    <text y="0" class="dim">Subject</text>       <text x="145" y="0" class="val">Munaga Venkata Raghu Babu</text>
+    <text y="28" class="dim">Handle</text>       <text x="145" y="28" class="val">@munagavenkataraghubabu-jpg</text>
+    <text y="56" class="dim">Role</text>         <text x="145" y="56" class="val">AI &amp; Data Science Developer</text>
+    <text y="84" class="dim">Status</text>       <text x="145" y="84" class="val">Building | Learning | Shipping</text>
+    <text y="112" class="dim">Languages</text>   <text x="145" y="112" class="val">Python, C++, JS, SQL</text>
+    <text y="140" class="dim">Repositories</text><text x="145" y="140" class="val">5</text>
+    <text y="168" class="dim">Contributions</text><text x="145" y="168" class="val">120</text>
+    <text y="196" class="dim">Stars</text>       <text x="145" y="196" class="val">10</text>
+    <text y="224" class="dim">Followers</text>   <text x="145" y="224" class="val">5</text>
+    <text y="252" class="dim">Active days</text> <text x="145" y="252" class="val">45</text>
+    <text y="280" class="dim">Contact</text>     <text x="145" y="280" class="val">github.com/munagavenkataraghubabu-jpg</text>
+  </g>
 </svg>
